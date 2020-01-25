@@ -5,27 +5,30 @@
  */
 
 // @lc code=start
-public class Solution {
-    public int[] TwoSum(int[] nums, int target) {
-        int difference = 0;
+public class Solution
+{
+    public int[] TwoSum(int[] nums, int target)
+    {
+        Dictionary<int, int> numberDictionary = new Dictionary<int, int>(nums.Count());
 
-        Dictionary<int, int> numberDictionary = new Dictionary<int, int>();
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (numberDictionary.ContainsValue(target - nums[i]))
+            {
+                int dictionaryKey = numberDictionary.FirstOrDefault(key => key.Value == target - nums[i]).Key;
 
-        foreach(int num in nums) {
-            int index = Array.IndexOf<int>(nums, num);
+                if (dictionaryKey != i)
+                {
+                    int[] twoSum = { dictionaryKey, i };
 
-            // numberDictionary.Add(index, num);
-
-            Console.WriteLine(index);
-        }
-
-        for(int i = 0; i < nums.Count(); i++) {
-            difference = target - nums[i];
-
-            if(numberDictionary.ContainsValue(nums[i]) && numberDictionary[nums[i]] != i) {
-                return new Array[i, Array.IndexOf(nums, numberDictionary[nums[i]])];
+                    return twoSum;
+                }
             }
+
+            numberDictionary.Add(i, nums[i]);
         }
+
+        return null;
     }
 }
 // @lc code=end
