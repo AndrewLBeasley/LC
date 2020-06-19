@@ -1,0 +1,4 @@
+C:\Users\alloy\OneDrive\Desktop\LEETCode\test\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\test\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\test\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\test\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs

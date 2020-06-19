@@ -1,0 +1,13 @@
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.csproj.CoreCompileInputs.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.AssemblyInfoInputs.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.AssemblyInfo.cs
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.csprojAssemblyReference.cache
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.exe
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.deps.json
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.runtimeconfig.json
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.runtimeconfig.dev.json
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.dll
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\bin\Debug\netcoreapp3.1\LeetCodeMethods.pdb
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.dll
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.pdb
+C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\test\obj\Debug\netcoreapp3.1\LeetCodeMethods.genruntimeconfig.cache
