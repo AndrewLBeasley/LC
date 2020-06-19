@@ -1,4 +1,0 @@
-C:\Users\alloy\OneDrive\Desktop\LEETCode\UnitTestProject1\obj\Debug\netcoreapp3.1\LeetCodeUnitTests.csprojAssemblyReference.cache
-C:\Users\alloy\OneDrive\Desktop\LEETCode\UnitTestProject1\obj\Debug\netcoreapp3.1\LeetCodeUnitTests.csproj.CoreCompileInputs.cache
-C:\Users\alloy\OneDrive\Desktop\LEETCode\UnitTestProject1\obj\Debug\netcoreapp3.1\LeetCodeUnitTests.AssemblyInfoInputs.cache
-C:\Users\alloy\OneDrive\Desktop\LEETCode\UnitTestProject1\obj\Debug\netcoreapp3.1\LeetCodeUnitTests.AssemblyInfo.cs
