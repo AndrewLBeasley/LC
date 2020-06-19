@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\UnitTestProject1\\LeetCodeTests.csproj": {}
+    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\UnitTestProject1\\LeetCodeUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\LeetCodeMethods.csproj": {
+    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\LeetCodeMethods.csproj",
-        "projectName": "LeetCodeMethods",
-        "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\LeetCodeMethods.csproj",
+        "projectUniqueName": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\LeetCode.csproj",
+        "projectName": "LeetCode",
+        "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\alloy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\obj\\",
+        "outputPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\UnitTestProject1\\LeetCodeTests.csproj": {
+    "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\UnitTestProject1\\LeetCodeUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\UnitTestProject1\\LeetCodeTests.csproj",
-        "projectName": "LeetCodeTests",
-        "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\UnitTestProject1\\LeetCodeTests.csproj",
+        "projectUniqueName": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\UnitTestProject1\\LeetCodeUnitTests.csproj",
+        "projectName": "LeetCodeUnitTests",
+        "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\UnitTestProject1\\LeetCodeUnitTests.csproj",
         "packagesPath": "C:\\Users\\alloy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\LeetCodeMethods.csproj": {
-                "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\LeetCodeC#\\test\\LeetCodeMethods.csproj"
+              "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\LeetCode.csproj": {
+                "projectPath": "C:\\Users\\alloy\\OneDrive\\Desktop\\LEETCode\\test\\LeetCode.csproj"
               }
             }
           }

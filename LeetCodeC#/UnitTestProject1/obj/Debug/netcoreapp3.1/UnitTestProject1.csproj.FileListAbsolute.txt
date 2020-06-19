@@ -96,6 +96,3 @@ C:\Users\alloy\OneDrive\Desktop\test\UnitTestProject1\obj\Debug\netcoreapp3.1\Un
 C:\Users\alloy\OneDrive\Desktop\test\UnitTestProject1\bin\Debug\netcoreapp3.1\test.exe
 C:\Users\alloy\OneDrive\Desktop\test\UnitTestProject1\bin\Debug\netcoreapp3.1\test.dll
 C:\Users\alloy\OneDrive\Desktop\test\UnitTestProject1\bin\Debug\netcoreapp3.1\test.pdb
-C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.csproj.CoreCompileInputs.cache
-C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.AssemblyInfoInputs.cache
-C:\Users\alloy\OneDrive\Desktop\LEETCode\LeetCodeC#\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.AssemblyInfo.cs
